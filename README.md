@@ -133,7 +133,8 @@ The project utilizes a tabular dataset with the following features:
 ## 💡 Author
 
 **Your Name**
-[GitHub Profile](https://github.com/Kalab191)
+Abdullateef Kawonise
+(https://github.com/Kalab191)
 
 
 
